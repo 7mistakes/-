@@ -1,5 +1,16 @@
 <p align=center
 
+<a href="https://www.glitter-graphics.com"><img src="http://dl5.glitter-graphics.net/pub/743/743565h307q52lb3.gif" width=600 height=14 border=0></a><br><a href="https://www.glitter-graphics.com" target=_blank></a>
+
+<p align=center
+
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=(￢_￢)&color=42eff5)
+![Custom Badge](https://img.shields.io/badge/𐔌herthania.𐦯-blue?style=for-the-badge&logo=github)
+
+<p align=center
+
+<p align=center
+
 <a href="https://www.glitter-graphics.com"><img src="http://dl4.glitter-graphics.net/pub/718/718984fdv9mfu6ox.jpg" width=530 height=48 border=0></a><br><a href="https://www.glitter-graphics.com" target=_blank></a>
 
 <p align=center 
@@ -35,3 +46,11 @@
 <a href="https://www.glitter-graphics.com"><img src="http://dl3.glitter-graphics.net/pub/365/365653mpvh1aa95w.gif" width=10 height=10 border=0></a>NAMEE: HERTHANIA !! (￢_￢)<a href="https://www.glitter-graphics.com"><img src="http://dl3.glitter-graphics.net/pub/365/365653mpvh1aa95w.gif" width=10 height=10 border=0></a>
 
 <a href="https://www.glitter-graphics.com"><img src="http://dl5.glitter-graphics.net/pub/553/553535attg72h90c.gif" width=129 height=56 border=0></a> <a href="https://www.glitter-graphics.com"><img src="http://dl5.glitter-graphics.net/pub/553/553535attg72h90c.gif" width=129 height=56 border=0></a> <a href="https://www.glitter-graphics.com"><img src="http://dl5.glitter-graphics.net/pub/553/553535attg72h90c.gif" width=129 height=56 border=0></a> <a href="https://www.glitter-graphics.com"><img src="http://dl5.glitter-graphics.net/pub/553/553535attg72h90c.gif" width=129 height=56 border=0></a> <a href="https://www.glitter-graphics.com"><img src="http://dl5.glitter-graphics.net/pub/553/553535attg72h90c.gif" width=129 height=56 border=0></a> <a href="https://www.glitter-graphics.com"><img src="http://dl5.glitter-graphics.net/pub/553/553535attg72h90c.gif" width=129 height=56 border=0></a>
+
+<p align=center
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314mut7imtpm6vc6oq3g32g722qy&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ffff00)](https://github.com/kittinan/spotify-github-profile)
+
+<p align=center
+
+<a href="https://www.glitter-graphics.com"><img src="http://dl5.glitter-graphics.net/pub/743/743565h307q52lb3.gif" width=600 height=14 border=0></a><br><a href="https://www.glitter-graphics.com" target=_blank></a>
