@@ -56,3 +56,7 @@
 <p align=center
 
 <a href="https://www.glitter-graphics.com"><img src="http://dl5.glitter-graphics.net/pub/743/743565h307q52lb3.gif" width=600 height=14 border=0></a><br><a href="https://www.glitter-graphics.com" target=_blank></a>
+
+<p align=center
+
+![Alt text](div56.gif)
